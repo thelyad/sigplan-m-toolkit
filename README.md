@@ -2,7 +2,9 @@
 
 ## Setup
 
-First, install all the dependency by running:
+This repo is only tested on python 3.10. 
+
+First, install all the dependencies by running:
 
 ```
 pip install -r requirements.txt
